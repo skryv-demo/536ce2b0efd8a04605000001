@@ -1,1 +1,16 @@
-{}
+{
+    "patiëntgegevens": {
+        "geslacht": {},
+        "etniciteit_vader": {
+            "selectedChoice": "Andere",
+            "indien_andere,_specificeren": "Chinees"
+        },
+        "etniciteit_moeder": {},
+        "geboortejaar": 2008,
+        "jaar_van_datacollectie": 2013
+    },
+    "datacollectie": {
+        "puberteitprepuberteit": {},
+        "insulineschema": {}
+    }
+}
